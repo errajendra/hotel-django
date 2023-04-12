@@ -1,0 +1,12 @@
+room_slot/room_slot/__pycache__
+venv/
+*.env
+/*.log
+/*.pyc
+*.pyc
+*.idea
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
+__pycache__/*
+db.sqlite3
