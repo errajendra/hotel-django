@@ -1,4 +1,4 @@
-# Hotel Management Django App
+# Hotel Management Django App - for Collage Project
 Hotel room booking and management app in Django(Python).
 
 # Features
